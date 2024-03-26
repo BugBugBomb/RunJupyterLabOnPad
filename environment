@@ -1,0 +1,14 @@
+dependencies:
+  - python=3
+  -pip:
+    -numpy
+    -pandas
+    -csv
+    -os
+    -tqdm
+    -time
+    -loguru
+    -json
+    -pytz
+    -datetime
+    -openpyxl
